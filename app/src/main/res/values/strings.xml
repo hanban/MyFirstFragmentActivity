@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstFragmentActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_portrait">This is my fragment that is loaded when in portrait mode..</string>
+    <string name="hello_landscape">This is my fragment that is loaded when in landscape mode..</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
